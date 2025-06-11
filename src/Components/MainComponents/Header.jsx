@@ -60,7 +60,7 @@ function Header() {
 
   const LCS = [
     {
-      name: "sdLOGO",
+      name: "Login",
       link: "../",
       logo: "loddd",
       m: "m",
@@ -72,7 +72,7 @@ function Header() {
       m: "m",
     },
     {
-      name: "LGO",
+      name: "CaRT",
       link: "../",
       logo: "loddd",
       m: "m",
