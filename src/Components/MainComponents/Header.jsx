@@ -72,7 +72,7 @@ function Header() {
       m: "m",
     },
     {
-      name: "CaRT",
+      name: "CaRT22 Bag",
       link: "../",
       logo: "loddd",
       m: "m",
