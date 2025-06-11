@@ -60,21 +60,21 @@ function Header() {
 
   const LCS = [
     {
-      name: "Login Button-",
+      name: "Login",
       link: "../",
-      logo: "loddd",
+      logo: " loddd",
       m: "m",
     },
     {
       name: "LOGO",
       link: "../",
-      logo: "loddd",
+      logo: " loddd",
       m: "m",
     },
     {
-      name: "CaR Bag",
+      name: " CaR  ",
       link: "../",
-      logo: "loddd",
+      logo: " loddd",
       m: "m",
     },
   ];
